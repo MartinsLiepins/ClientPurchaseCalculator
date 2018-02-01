@@ -1,4 +1,4 @@
-package com.mlproject.ClientPurchaseCalc;
+package com.mlproject.ClientPurchaseCalc.threads;
 
 /**
  * Created by martins.
